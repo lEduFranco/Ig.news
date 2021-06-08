@@ -12,7 +12,7 @@ export function SignInButton() {
       className={styles.signInbutton}
      >
       <FaGithub color="#04d361"/>
-      Duline
+      LEduFranco
       <FiX color="#737380" className={styles.closeIcon}/>
     </button>
   ) : ( 
